@@ -1,4 +1,5 @@
 # Flashpoint Spawn Adjustments
+MOD DOES NOT CONTAIN FULL PLAYABLE FLASHPOINTS!
 Changes weights to let low difficulty Flashpoints to appear first.  This ModTek mod alters the base 10 weight to lower difficulty Flashpoints and those with rep requirements to allow them to spawn more often than harder Flashpoints.  This is intended for Career Mode when you will be able to complete some Flashpoints with the starting Lance or close to it.  This does affect campaign mode as well, but it is trivial to clear these early FPs quickly after the story is complete.
 
 ### DLC WARNING
