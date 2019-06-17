@@ -22,7 +22,7 @@ On the release page, there will be three .zip files.  One with both Flashpoint a
     
 #### Optional Dependancies:
     cFixes
-This mod will load after cFixes and if cFixes adjustments are needed I will copy them to this mod manually.
+This mod does not need cFixes to work. It will load after cFixes if present and if cFixes adjustments are needed I will copy them to this mod manually.  
 
 ### Scaling
 Flashpoints have a base 10 weight to spawn.  The Difficulty number corresponds with the Skull rating x2, so a 2.5 Skull rated FP is Difficulty 5.  The "Joint Venture" FP has a weight of 200, and all "Alliance" FP's have a weight of 1000.  I've scaled the lowest difficulty FPs to 100 and rapidly sloped down to base 10 for Difficulty 7 and up where the majority of FPs reside.
