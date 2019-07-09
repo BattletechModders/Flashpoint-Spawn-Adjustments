@@ -46,7 +46,7 @@ https://github.com/BattletechModders/ModTek/releases
     fp_gladiator.json - D6
     fp_greed.json - D6
     fp_justinAllard.json - D6
-    fp_shadowOrg.json - D6
+    fp_shadowOrg.json - D6 - Tags adjusted to allow spawning on career
     
 #### Urban Warfare DLC
     fp_doubleAgent.json - D5
