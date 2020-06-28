@@ -2,8 +2,8 @@
     "Name": "Flashpoint Spawn Adjustments",
     "Enabled": true,
 	
-    "Version": "1.6.2.1",
-    "Description": "Changes weights to let low difficulty Flashpoints to appear first, for BATTLETECH 1.6.2.  DOES NOT CONTAIN FULL FLASPOINTS.",
+    "Version": "1.9.1.1",
+    "Description": "Changes weights to let low difficulty Flashpoints to appear first, for BATTLETECH 1.9.1.  DOES NOT CONTAIN FULL FLASPOINTS.",
     "Author": "Amechwarrior",
     "Website": "https://github.com/BattletechModders/Flashpoint-Spawn-Adjustments",
 
@@ -13,7 +13,7 @@
 
     "Manifest": [
 
-	{ "Type": "FlashpointDef", "Path": "flashpoints", "AddToDB": true }
+	{ "Type": "FlashpointDef", "Path": "flashpoints" }
 
     ]
 }
