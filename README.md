@@ -16,16 +16,16 @@ YOU MUST ONLY DOWNLOAD THE PACKAGE FOR DLCs YOU OWN OR YOUR GAME MAY NOT LOAD.
 On the release page, there will be three .zip files.  One with both Flashpoint and Urban Warfare files, and two with either FP or UW files only for those who do not have both.  They all run off of the same mod.json and have the same ModTek name.
 
 ### Instructions:
-
-    Download the package that corresponds with the DLC owned, FP+UW, FP only, or UW only.
-    Remove older Flashpoint Spawn Adjustments folder if present.
-    Copy Flashpoint Spawn Adjustments folder in to Mods folder created for ModTek or in the HBS Mods folder.
+    Remove older editions of FSA. This is very important to not crash the game.
+    Copy Flashpoint Spawn Adjustments folder in to Mods folder created for ModTek.
     
 ### ModTek
-This mod can use either HBS Mod Manager or ModTek:
+This mod uses ModTek:
 
 https://github.com/BattletechModders/ModTek/releases
-    
+
+Flashpoint Spawn Adjustments changes cannot be applied by the HBS mod loader.  If you know how to make this work with the HBS loader, let me know.
+
 #### Optional Dependancies:
     cFixes
 This mod does not need cFixes to work. It will load after cFixes if present and if cFixes adjustments are needed I will copy them to this mod manually.  
