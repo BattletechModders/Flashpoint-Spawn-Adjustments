@@ -46,7 +46,7 @@ https://github.com/BattletechModders/ModTek/releases
     fp_gladiator.json - D6
     fp_greed.json - D6
     fp_justinAllard.json - D6
-    fp_shadowOrg.json - D6 - Tags adjusted to allow spawning on career
+    fp_shadowOrg.json - D6
     
 #### Urban Warfare DLC
     fp_doubleAgent.json - D5
@@ -57,5 +57,4 @@ https://github.com/BattletechModders/ModTek/releases
     fp_siegebreaker.json - D5
     fp_succession.json - D5
     fp_tournament.json - D4
-    fp_uw1.json - D3 + weight 200 for UW intro FP to match "Joint Venture" intro FP
     fp_yangBigScore.json - D5
