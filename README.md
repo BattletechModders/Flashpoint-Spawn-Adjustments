@@ -1,7 +1,7 @@
 # Flashpoint Spawn Adjustments
 MOD DOES NOT CONTAIN FULL PLAYABLE FLASHPOINTS!
 
-This ModTek mod changes spawn weights to let low difficulty Flashpoints to appear first.  It alters the base 10 weight of lower difficulty Flashpoints and those with rep requirements to allow them to spawn more often than harder Flashpoints.  This is intended for Career Mode when you will be able to complete some Flashpoints with the starting Lance or close to it.  This does affect campaign mode as well, but it is trivial to clear these early FPs quickly after the story is complete.  This does not edit anything with the Heavy Metal FP campaign as those have their own method of spawning.
+This ModTek mod changes spawn weights to let low difficulty Flashpoints to appear first.  It alters the base 10 weight of lower difficulty Flashpoints and those with rep requirements to allow them to spawn more frequently than harder Flashpoints.  This is intended for Career Mode when you will be able to complete some Flashpoints with the starting Lance or close to it.  This does affect campaign mode as well, but it is trivial to clear these early FPs quickly after the story is complete.  This does not edit anything with the Heavy Metal FP campaign as those have their own method of spawning.
 
 ### DLC WARNING
 YOU MUST ONLY DOWNLOAD THE PACKAGE FOR DLC YOU OWN OR YOUR GAME MAY NOT LOAD.
@@ -31,7 +31,7 @@ Flashpoint Spawn Adjustments changes cannot be applied by the HBS mod loader.  I
 This mod does not need cFixes to work. It will load after cFixes if present and if cFixes adjustments are needed I will copy them to this mod manually.  
 
 ### Scaling
-Flashpoints have a base 10 weight to spawn.  The Difficulty number corresponds with the Skull rating x2, so a 2.5 Skull rated FP is Difficulty 5.  The "Joint Venture" FP has a weight of 200, and all "Alliance" FP's have a weight of 1000.  I've scaled the lowest difficulty FPs to 100 and rapidly sloped down to base 10 for Difficulty 7 and up where the majority of FPs reside.
+Flashpoints have a base 10 weight to spawn.  The Difficulty number corresponds with the Skull rating x2, so a 2.5 Skull rated FP is Difficulty 5.  I've scaled the lowest difficulty FPs to 100 and rapidly sloped down to base 10 for Difficulty 7 and up where the majority of FPs reside.  All "Alliance" FP's have a weight of 1000 and that is untouched.
 
     Difficulty	Weight
     4	          100
