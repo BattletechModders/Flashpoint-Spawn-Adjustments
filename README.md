@@ -18,7 +18,12 @@ On the release page, there will be three .zip files.  One with both Flashpoint a
 ### Instructions:
 
     Download the package that corresponds with the DLC owned, FP+UW, FP only, or UW only.
-    Copy Flashpoint Spawn Adjustments folder in to Mods folder created for ModTek.  Remove older folder if present.
+    Copy Flashpoint Spawn Adjustments folder in to Mods folder created for ModTek or in the HBS Mods folder.  Remove older folder if present.
+    
+### ModTek
+This mod can use either HBS Mod Manager or ModTek:
+
+https://github.com/BattletechModders/ModTek/releases
     
 #### Optional Dependancies:
     cFixes
@@ -35,11 +40,6 @@ Flashpoints have a base 10 weight to spawn.  The Difficulty number corresponds w
     8	          10
     9	          10
     10	          10
-    
-### ModTek
-This mod needs ModTek to work:
-
-https://github.com/BattletechModders/ModTek/releases
 
 ### Stock Files Edited:
 #### Flashpoint DLC
