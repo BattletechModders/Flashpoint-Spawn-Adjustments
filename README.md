@@ -1,7 +1,7 @@
 # Flashpoint Spawn Adjustments
 MOD DOES NOT CONTAIN FULL PLAYABLE FLASHPOINTS!
 
-This ModTek mod changes spawn weights to let low difficulty Flashpoints to appear first.  It alters the base 10 weight to lower difficulty Flashpoints and those with rep requirements to allow them to spawn more often than harder Flashpoints.  This is intended for Career Mode when you will be able to complete some Flashpoints with the starting Lance or close to it.  This does affect campaign mode as well, but it is trivial to clear these early FPs quickly after the story is complete.
+This ModTek mod changes spawn weights to let low difficulty Flashpoints to appear first.  It alters the base 10 weight of lower difficulty Flashpoints and those with rep requirements to allow them to spawn more often than harder Flashpoints.  This is intended for Career Mode when you will be able to complete some Flashpoints with the starting Lance or close to it.  This does affect campaign mode as well, but it is trivial to clear these early FPs quickly after the story is complete.  This does not edit anything with the Heavy Metal FP campaign as those have their own method of spawning.
 
 ### DLC WARNING
 YOU MUST ONLY DOWNLOAD THE PACKAGE FOR DLC YOU OWN OR YOUR GAME MAY NOT LOAD.
@@ -11,7 +11,7 @@ This mod only contains the flashpoint.json files for these Flashpoints, it does 
 ### Packages
 ONLY ONE PACKAGE CAN BE INSTALLED AT A TIME.
 
-YOU MUST ONLY DOWNLOAD THE PACKAGE FOR DLC YOU OWN OR YOUR GAME MAY NOT LOAD.
+YOU MUST ONLY DOWNLOAD THE PACKAGE FOR DLCs YOU OWN OR YOUR GAME MAY NOT LOAD.
 
 On the release page, there will be three .zip files.  One with both Flashpoint and Urban Warfare files, and two with either FP or UW files only for those who do not have both.  They all run off of the same mod.json and have the same ModTek name.
 
