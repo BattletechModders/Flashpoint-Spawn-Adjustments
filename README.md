@@ -18,7 +18,8 @@ On the release page, there will be three .zip files.  One with both Flashpoint a
 ### Instructions:
 
     Download the package that corresponds with the DLC owned, FP+UW, FP only, or UW only.
-    Copy Flashpoint Spawn Adjustments folder in to Mods folder created for ModTek or in the HBS Mods folder.  Remove older folder if present.
+    Copy Flashpoint Spawn Adjustments folder in to Mods folder created for ModTek or in the HBS Mods folder.
+    Remove older folder if present.
     
 ### ModTek
 This mod can use either HBS Mod Manager or ModTek:
